@@ -1,4 +1,4 @@
-@import '../asset/Sarabun-Regular.ttf';
+@import 'sarabun.css';
 
 body {
 	font-family: 'sarabun', sans-serif;
